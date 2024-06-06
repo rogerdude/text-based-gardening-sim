@@ -1,0 +1,12 @@
+Room - Balcony 1
+8.10_1.2_Rebutia,7.8_1.2_None,6.7_1.2_None,6.7_1.1_Disocactus
+
+Room - Greenhouse 1
+4.7_0.6_Cereus,3.6_0.6_None,3.6_0.6_SnakePlant,3.6_0.6_None
+
+Room - Balcony 2
+8.10_1.2_SnakePlant,7.8_1.2_Monstera,6.7_1.2_None,6.7_1.1_Cereus
+
+Plants - Rebutia 1,Cereus 3,Disocactus 1,BridgesiiMonstrose 1,SnakePlant 1,PeaceLily 0,JadePlant 1,Monstera 0,FiddleLeafFig 0,Enoki 0,KingOyster 0,LionsManeMushroom 0
+
+Items - F 2,R 5
