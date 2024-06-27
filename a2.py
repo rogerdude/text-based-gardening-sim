@@ -1,10 +1,6 @@
 from a2_support import *
 from typing import Optional
 
-# author = Hamza Khurram
-# email_address = h.khurram@uqconnect.edu.au
-# due_date = 23/09/2022
-
 class Entity:
     """
     Provides base functionality for Plant and Item.
