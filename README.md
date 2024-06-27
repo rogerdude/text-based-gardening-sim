@@ -1,6 +1,8 @@
 # text-based-gardening-sim
 Gardening simulator in python terminal.<br>
 
+User must keep the plants alive in this game.<br>
+
 Usage:<br>
 First user is prompted for the house file e.g. houses/house1.txt<br>
 Then user enters a valid move.<br>
